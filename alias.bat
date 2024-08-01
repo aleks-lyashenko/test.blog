@@ -1,0 +1,1 @@
+doskey a=php artisan
